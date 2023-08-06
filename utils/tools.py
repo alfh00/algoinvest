@@ -13,9 +13,12 @@ def csv_to_tuples(csv_path):
 
 def clean_data(list):
     clean_data = []
+    
     for stock in list:
-        stock[1] = round(float(stock[1]),2)
-        stock[2] = float(stock[2]) * float(stock[1]) / 100
+        stock[1] = (float(stock[1]))
+        stock[2] = (float(stock[2])) * float(stock[1] / 100)
+        # stock[1] = round(float(stock[1]))
+        # stock[2] = round(float(stock[2])) * float(stock[1] / 100)
 
         if stock[1] > 0 and stock[2] > 0:
             clean_data.append(stock)

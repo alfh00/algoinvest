@@ -1,3 +1,4 @@
 env
 __pycache__
 .vscode
+brut_force.ipynb

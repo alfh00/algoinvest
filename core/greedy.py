@@ -1,5 +1,3 @@
-
-
 def greedy(stocks, budget):
     # Sort stocks in descending order of profit-to-cost ratio
     sorted_stocks = sorted(stocks, key=lambda x: x[2] / x[1], reverse=True)
@@ -13,6 +11,3 @@ def greedy(stocks, budget):
             remaining_budget -= stock[1]
 
     return portfolio
-
-
-

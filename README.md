@@ -1,7 +1,7 @@
 # Algo Invest
 
 <p align="center">
-  <img src="https://scontent.fcdg4-1.fna.fbcdn.net/v/t39.30808-6/301857731_754087558895984_4057687465612667658_n.png" alt="AlgoInvest&Trade Logo" width="200" height="200">
+  <img src="https://scontent.fcdg4-1.fna.fbcdn.net/v/t39.30808-6/301857731_754087558895984_4057687465612667658_n.png?_nc_cat=110&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Crsqr_wpzJMAX8BUyjd&_nc_ht=scontent.fcdg4-1.fna&oh=00_AfDnZrOth13EN_6hAhyKbSr0EFiG6m63NouVJ2R4LHdH1w&oe=64D616DF" alt="AlgoInvest&Trade Logo" width="200" height="200">
 </p>
 
 AlgoInvest&Trade, a financial company specializing in investment. The company aims to optimize its investment strategies using algorithms, in order to generate greater profits for its clients.
